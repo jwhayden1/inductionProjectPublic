@@ -1,6 +1,6 @@
 # inductionProjectPublic
 Debugging induction task 1 (Python). 
-A very simple game has been constructed. However, there are some bug within the program that I would like you to find and fix. 
+A very simple game has been constructed. However, there are some bugs within the program that I would like you to find and fix. 
 Some are obvious, others not so. In fact, you may find unintentional bugs! 
 Instructions: 
 1.	Use the software centre to download python. 
